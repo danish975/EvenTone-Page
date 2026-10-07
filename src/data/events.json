@@ -1,0 +1,136 @@
+{
+  "events": [
+    {
+      "id": "tech-fest-2026",
+      "title": "Tech Fest 2026",
+      "description": "A two-day celebration of innovation, technology and creativity.",
+      "category": "Technical",
+      "status": "Open",
+      "date": "2026-10-12",
+      "location": "Block 32 Auditorium",
+      "image": "/images/events/tech-fest.jpg",
+      "attendees": 120
+    },
+    {
+      "id": "ai-ml-workshop",
+      "title": "AI & ML Workshop",
+      "description": "Hands-on workshop on real-world applications of AI and Machine Learning.",
+      "category": "Workshop",
+      "status": "Limited",
+      "date": "2026-10-18",
+      "location": "Computer Science Block",
+      "image": "/images/events/ai-workshop.jpg",
+      "attendees": 80
+    },
+    {
+      "id": "cultural-night",
+      "title": "Cultural Night",
+      "description": "Music, dance, drama and more. A night to celebrate our diverse talents.",
+      "category": "Cultural",
+      "status": "Open",
+      "date": "2026-10-25",
+      "location": "Main Ground",
+      "image": "/images/events/cultural-night.jpg",
+      "attendees": 200
+    },
+    {
+      "id": "hackathon-3",
+      "title": "Hackathon 3.0",
+      "description": "Build innovative solutions to real-world problems. Prizes, mentorship and more!",
+      "category": "Hackathon",
+      "status": "Full",
+      "date": "2026-11-02",
+      "location": "Innovation Center",
+      "image": "/images/events/hackathon.jpg",
+      "attendees": 150
+    },
+    {
+      "id": "web-dev-bootcamp",
+      "title": "Web Dev Bootcamp",
+      "description": "Learn full-stack web development from scratch. Build real projects with React & Node.js.",
+      "category": "Workshop",
+      "status": "Open",
+      "date": "2026-11-05",
+      "location": "Lab 204, IT Block",
+      "image": "/images/events/ai-workshop.jpg",
+      "attendees": 60
+    },
+    {
+      "id": "campus-run-2026",
+      "title": "Campus Run 2026",
+      "description": "Annual 5K run across campus. All fitness levels welcome. Medals for top finishers.",
+      "category": "Sports",
+      "status": "Open",
+      "date": "2026-11-10",
+      "location": "University Stadium",
+      "image": "/images/events/tech-fest.jpg",
+      "attendees": 300
+    },
+    {
+      "id": "startup-pitch-day",
+      "title": "Startup Pitch Day",
+      "description": "Present your startup idea to investors and mentors. Win seed funding and incubation support.",
+      "category": "Technical",
+      "status": "Limited",
+      "date": "2026-11-15",
+      "location": "Entrepreneurship Cell",
+      "image": "/images/events/hackathon.jpg",
+      "attendees": 45
+    },
+    {
+      "id": "music-fest",
+      "title": "Harmony Music Fest",
+      "description": "Live performances by student bands, solo artists and guest musicians. Food stalls included!",
+      "category": "Cultural",
+      "status": "Open",
+      "date": "2026-11-20",
+      "location": "Open Air Theatre",
+      "image": "/images/events/cultural-night.jpg",
+      "attendees": 500
+    },
+    {
+      "id": "cybersecurity-seminar",
+      "title": "Cybersecurity Seminar",
+      "description": "Expert talks on ethical hacking, network security and protecting digital assets.",
+      "category": "Technical",
+      "status": "Open",
+      "date": "2026-11-22",
+      "location": "Seminar Hall B",
+      "image": "/images/events/ai-workshop.jpg",
+      "attendees": 90
+    },
+    {
+      "id": "photography-walk",
+      "title": "Photography Walk",
+      "description": "Explore the campus through your lens. Learn composition, lighting and editing tips.",
+      "category": "Others",
+      "status": "Open",
+      "date": "2026-11-28",
+      "location": "Campus Main Gate",
+      "image": "/images/events/cultural-night.jpg",
+      "attendees": 35
+    },
+    {
+      "id": "chess-tournament",
+      "title": "Inter-Dept Chess Tournament",
+      "description": "Test your strategic thinking. Open to all skill levels. Trophies for top 3.",
+      "category": "Sports",
+      "status": "Limited",
+      "date": "2026-12-01",
+      "location": "Recreation Center",
+      "image": "/images/events/tech-fest.jpg",
+      "attendees": 64
+    },
+    {
+      "id": "cloud-computing-workshop",
+      "title": "Cloud Computing Workshop",
+      "description": "Deploy apps on AWS and GCP. Hands-on with Docker, Kubernetes and serverless.",
+      "category": "Workshop",
+      "status": "Open",
+      "date": "2026-12-05",
+      "location": "Smart Classroom 3",
+      "image": "/images/events/hackathon.jpg",
+      "attendees": 70
+    }
+  ]
+}

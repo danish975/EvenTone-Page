@@ -1,0 +1,39 @@
+{
+  "categories": [
+    {
+      "id": "all",
+      "name": "All",
+      "icon": "grid"
+    },
+    {
+      "id": "technical",
+      "name": "Technical",
+      "icon": "code"
+    },
+    {
+      "id": "cultural",
+      "name": "Cultural",
+      "icon": "music"
+    },
+    {
+      "id": "workshop",
+      "name": "Workshop",
+      "icon": "presentation"
+    },
+    {
+      "id": "sports",
+      "name": "Sports",
+      "icon": "trophy"
+    },
+    {
+      "id": "hackathon",
+      "name": "Hackathon",
+      "icon": "terminal"
+    },
+    {
+      "id": "others",
+      "name": "Others",
+      "icon": "more"
+    }
+  ]
+}

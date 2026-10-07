@@ -1,0 +1,11 @@
+{
+  "eyebrow": "EXPLORE • LEARN • CONNECT",
+  "title": "Discover Amazing Events at",
+  "highlight": "Your Campus",
+  "description": "Find and join workshops, hackathons, cultural events, tech talks and more. Meet like-minded people and grow together.",
+  "heroImage": "/images/hero/campus.jpg",
+  "eventStats": {
+    "events": "50+",
+    "students": "2.5K+"
+  }
+}
